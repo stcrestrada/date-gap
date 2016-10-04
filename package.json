@@ -1,6 +1,6 @@
 {
   "name": "dategap-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Find if a date falls within the range of the current date and the past date, i.e. today to 10 days ago.",
   "main": "index.js",
   "repository": {
