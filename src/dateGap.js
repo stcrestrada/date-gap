@@ -1,9 +1,8 @@
 'use strict';
 var moment = require('moment');
 
-const exports = {}
 
-exports.findGap = function (srvcDt, gap = 10) {
+module.exports.findGap = function (srvcDt, gap = 10) {
     var serviceDate = parseDate(srvcDt)
     var daysAgo = configureNumberOfDays(gap)
     var dt = currentDateFormatted()
