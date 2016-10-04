@@ -1,0 +1,14 @@
+{
+  "name": "date-gap",
+  "version": "1.0.0",
+  "description": "Find if the difference between the current date and aws alerts date which falls within the set gap.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephen Estrada",
+  "license": "ISC",
+  "devDependencies": {
+    "moment": "~2.15.1"
+  }
+}
