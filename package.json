@@ -1,7 +1,7 @@
 {
   "name": "dategap-js",
   "version": "1.0.3",
-  "description": "Find if the difference between the current date and aws alerts date which falls within the set gap.",
+  "description": "Find if a date falls within the range of the current date and the past date, i.e. today to 10 days ago.",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -10,6 +10,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "dategap-js",
+    "date-gap",
+    "dategap"
+  ],
   "author": "Stephen Estrada",
   "license": "ISC",
   "bugs": {
