@@ -12,6 +12,10 @@
   },
   "author": "Stephen Estrada",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stcrestrada/date-gap/issues"
+  },
+  "homepage": "https://github.com/stcrestrada/date-gap#readme",
   "devDependencies": {
     "moment": "~2.15.1"
   }
