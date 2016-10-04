@@ -1,5 +1,5 @@
 {
-  "name": "date-gap",
+  "name": "dategap-js",
   "version": "1.0.0",
   "description": "Find if the difference between the current date and aws alerts date which falls within the set gap.",
   "main": "index.js",
